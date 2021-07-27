@@ -1,0 +1,8 @@
+C:\Users\guilh\Desktop\RocketPlatform\RocketPlatform\bin\Debug\netcoreapp3.1\RocketPlatform.deps.json
+C:\Users\guilh\Desktop\RocketPlatform\RocketPlatform\bin\Debug\netcoreapp3.1\RocketPlatform.dll
+C:\Users\guilh\Desktop\RocketPlatform\RocketPlatform\bin\Debug\netcoreapp3.1\RocketPlatform.pdb
+C:\Users\guilh\Desktop\RocketPlatform\RocketPlatform\obj\Debug\netcoreapp3.1\RocketPlatform.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\RocketPlatform\RocketPlatform\obj\Debug\netcoreapp3.1\RocketPlatform.AssemblyInfo.cs
+C:\Users\guilh\Desktop\RocketPlatform\RocketPlatform\obj\Debug\netcoreapp3.1\RocketPlatform.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\RocketPlatform\RocketPlatform\obj\Debug\netcoreapp3.1\RocketPlatform.dll
+C:\Users\guilh\Desktop\RocketPlatform\RocketPlatform\obj\Debug\netcoreapp3.1\RocketPlatform.pdb
